@@ -52,7 +52,7 @@ http://localhost:5000/api/players
 
 ### GET Request  
 Retrieves all players.  
-![GET Screenshot](screenshot/get all.png)  
+![GET Screenshot](screenshot/get_all.png)  
 
 ### POST Request  
 Creates a new player.  
