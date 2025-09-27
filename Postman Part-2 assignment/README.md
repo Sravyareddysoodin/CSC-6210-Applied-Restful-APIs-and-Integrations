@@ -67,6 +67,10 @@ Updates an existing player.
 Deletes a player.  
 ![DELETE Screenshot](screenshot/delete.png)  
 
+PDF: ![All  Screenshot](Project_screenshot.pdf)  
+
+
+
 
 ---
 
